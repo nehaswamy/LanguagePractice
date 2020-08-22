@@ -14,5 +14,5 @@ list. This way, a user can focus on words that are more difficult but can keep a
 
 ## Acknowledgements
 * CMSC132 
-* Oracle tutorials 
-* Stack Overflow 
+* [Oracle tutorials](https://docs.oracle.com/javase/tutorial/uiswing/components/menu.html)
+* [Stack Overflow](https://stackoverflow.com/questions/766956/how-do-i-create-a-right-click-context-menu-in-java-swing) 
