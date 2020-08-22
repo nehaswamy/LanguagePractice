@@ -10,7 +10,7 @@ list. This way, a user can focus on words that are more difficult but can keep a
 ## Notes
 * I built this application after my freshman year of college. Thus, this application is not perfect, and I plan to make updates 
   using the knowledge gained up until now. 
-* I would like to update this app so user data will be saved. One possible solution would be to utilize a SQL database. 
+* I would like to update this app so user data will be saved each time the app is reopened. 
 
 ## Acknowledgements
 * CMSC132 
